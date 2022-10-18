@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Musa Bin Shabeer ========================================================================================================================================Full Stack Developer--------------------* 🌍  I'm based in Islamabad* ✉️  You can contact me at [musabinshabeer@gmail.com](mailto:musabinshabeer@gmail.com)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Musa Bin Shabeer, Full Stack Developer, working at NCRI Pakistan--------------------* 🌍  I'm based in Islamabad* ✉️  You can contact me at [musabinshabeer@gmail.com](mailto:musabinshabeer@gmail.com)
 
 <a href="https://www.github.com/MusaBinShabeer" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MusaBinShabeer?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
